@@ -1,0 +1,4 @@
+participants will able to 
+
+	-create repo
+	-clone repo
